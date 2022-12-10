@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/428b97ce-d3db-4ca6-9217-f86c5a8ae76b/AppServices/subscriptions/428b97ce-d3db-4ca6-9217-f86c5a8ae76b/resourceGroups/ms_startup_spons/providers/Microsoft.Web/sites/cerebell-demo",
+    "appService.deploySubpath": "."
+}
